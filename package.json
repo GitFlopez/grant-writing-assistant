@@ -1,0 +1,10 @@
+{
+  "name": "grant-writing-assistant",
+  "version": "1.0.0",
+  "description": "ClawHub skill: grant-writing-assistant",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "business"
+  }
+}
